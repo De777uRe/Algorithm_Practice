@@ -1,1 +1,1 @@
-# Algorithm_Practice
+# Collection of assorted algorithm practice problems
